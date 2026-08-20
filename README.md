@@ -13,25 +13,29 @@ Trabalho com dashboards, integrações WhatsApp, automações com n8n e IA aplic
 ## 📊 Estatísticas
 
 <!--START_SECTION:stats-->
-_Carregando estatísticas..._
+📦 6 repositórios públicos · 👥 0 seguidores
 <!--END_SECTION:stats-->
 
 ## 🛠️ Linguagens mais usadas
 
 <!--START_SECTION:languages-->
-_Carregando linguagens..._
+`JavaScript` (2 repos) · `CSS` (1 repo)
 <!--END_SECTION:languages-->
 
 ## 🔥 Atividade recente
 
 <!--START_SECTION:activity-->
-_Carregando atividade recente..._
+- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 07/08/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
 <!--END_SECTION:activity-->
 
 ---
 
 <!--START_SECTION:updated-->
-_Última atualização automática: em breve_
+_Última atualização automática: 20/08/2026, 15:27:31_
 <!--END_SECTION:updated-->
 
 📫 Contato: [LinkedIn](#) · [Site NexaTech](#)
