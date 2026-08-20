@@ -1,0 +1,38 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Roda todo dia às 06:00 UTC (~03:00 horário de Brasília)
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}   # permite disparar manualmente pela aba Actions
+  push:
+    branches: [main]      # opcional: roda também quando você editar algo
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar README com dados reais
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-readme.mjs
+
+      - name: Commit e push (se houve mudança)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: atualiza README automaticamente [skip ci]"
+          git push

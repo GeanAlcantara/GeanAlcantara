@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Gean 👋
 
-<!--
-**GeanAlcantara/GeanAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de automações e sistemas web, fundador da **NexaTech Soluções Financeiras**.
+Trabalho com dashboards, integrações WhatsApp, automações com n8n e IA aplicada a vendas.
 
-Here are some ideas to get you started:
+## 🚀 O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sistemas web sob medida (SaaS, dashboards, gestão)
+- Automação de WhatsApp com IA (Evolution API / Meta Cloud API + n8n + Claude API)
+- Tráfego pago (Meta Ads / Google Ads) para clientes
+- Projetos no agronegócio e fintech
+
+## 📊 Estatísticas
+
+<!--START_SECTION:stats-->
+_Carregando estatísticas..._
+<!--END_SECTION:stats-->
+
+## 🛠️ Linguagens mais usadas
+
+<!--START_SECTION:languages-->
+_Carregando linguagens..._
+<!--END_SECTION:languages-->
+
+## 🔥 Atividade recente
+
+<!--START_SECTION:activity-->
+_Carregando atividade recente..._
+<!--END_SECTION:activity-->
+
+---
+
+<!--START_SECTION:updated-->
+_Última atualização automática: em breve_
+<!--END_SECTION:updated-->
+
+📫 Contato: [LinkedIn](#) · [Site NexaTech](#)
