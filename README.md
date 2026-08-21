@@ -13,29 +13,29 @@ Trabalho com dashboards, integrações WhatsApp, automações com n8n e IA aplic
 ## 📊 Estatísticas
 
 <!--START_SECTION:stats-->
-📦 6 repositórios públicos · 👥 0 seguidores
+📦 7 repositórios públicos · 👥 0 seguidores
 <!--END_SECTION:stats-->
 
 ## 🛠️ Linguagens mais usadas
 
 <!--START_SECTION:languages-->
-`JavaScript` (2 repos) · `CSS` (1 repo)
+`JavaScript` (3 repos) · `Python` (1 repo) · `CSS` (1 repo)
 <!--END_SECTION:languages-->
 
 ## 🔥 Atividade recente
 
 <!--START_SECTION:activity-->
-- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 07/08/2026
-- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
-- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
-- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
-- 🔨 `0` commit(s) em [GeanAlcantara/Biocarbo](https://github.com/GeanAlcantara/Biocarbo) — 29/07/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/iptv-infrastructure-lab](https://github.com/GeanAlcantara/iptv-infrastructure-lab) — 20/08/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/iptv-infrastructure-lab](https://github.com/GeanAlcantara/iptv-infrastructure-lab) — 20/08/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/iptv-infrastructure-lab](https://github.com/GeanAlcantara/iptv-infrastructure-lab) — 20/08/2026
+- ✨ Criou branch em [GeanAlcantara/iptv-infrastructure-lab](https://github.com/GeanAlcantara/iptv-infrastructure-lab) — 20/08/2026
+- 🔨 `0` commit(s) em [GeanAlcantara/GeanAlcantara](https://github.com/GeanAlcantara/GeanAlcantara) — 20/08/2026
 <!--END_SECTION:activity-->
 
 ---
 
 <!--START_SECTION:updated-->
-_Última atualização automática: 20/08/2026, 15:28:48_
+_Última atualização automática: 21/08/2026, 03:43:41_
 <!--END_SECTION:updated-->
 
 📫 Contato: [LinkedIn](#) · [Site NexaTech](#)
