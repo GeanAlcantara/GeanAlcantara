@@ -1,6 +1,6 @@
 # Olá, eu sou o Gean 👋
 
-Desenvolvedor de automações e sistemas web, fundador da **NexaTech Soluções Financeiras**.
+Desenvolvedor de automações e sistemas web, fundador da **NexaTech Soluções Tecnológicas**.
 Trabalho com dashboards, integrações WhatsApp, automações com n8n e IA aplicada a vendas.
 
 ## 🚀 O que eu faço
